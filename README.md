@@ -1,5 +1,4 @@
-# Leetcode-Profile
-<h1 align="center">🚀 My LeetCode Journey</h1>
+<h1 align="center">My LeetCode Journey</h1>
 
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/Karthikeyen_kuppusamy?ext=contest&theme=light&animation=true&font=baloo&border=1&radius=30" alt="LeetCode Stats" />
