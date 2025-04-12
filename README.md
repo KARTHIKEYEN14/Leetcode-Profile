@@ -1,4 +1,7 @@
 # Leetcode-Profile
-# My LeetCode Progress
+<h1 align="center">🚀 My LeetCode Journey</h1>
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/Karthikeyen_kuppusamy?theme=solarized&ext=activity&animation=true)
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/YOUR_USERNAME?ext=contest&theme=unicorn&animation=true" alt="LeetCode Stats" />
+</p>
+
