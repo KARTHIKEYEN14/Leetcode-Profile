@@ -6,6 +6,6 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Winky+Rough&pause=1000&color=000000&center=true&vCenter=true&width=435&lines=Improving+by+just+1%+each+day+is+far+better+than+standing+still;Consistency+Is+Key+!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Winky+Rough&pause=1000&color=000000&center=true&vCenter=true&width=435&lines=1%+better+today+is+miles+ahead+of+0+effort;Consistency+Is+Key+!" alt="Typing SVG" />
 </p>
 
