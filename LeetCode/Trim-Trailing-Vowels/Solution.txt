@@ -1,0 +1,13 @@
+1class Solution:
+2    def trimTrailingVowels(self, s: str) -> str:
+3        s1 = s[::-1]
+4        arr = ['a','e','i','o','u']
+5        for i in range(0,len(s1)):
+6            if s1[i] not in arr:
+7                break
+8        else:
+9            return ""
+10        s1 = s1[i:]
+11        s1 = s1[::-1]
+12        return s1
+13        
