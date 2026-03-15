@@ -1,0 +1,19 @@
+1class Solution {
+2    public int countCommas(int n) {
+3        int comma = 0;
+4        int prev = 0;
+5        if(n< 1000) return comma;
+6        if(n>=1000 && n<= 9999){
+7            comma = (n - 1000) + 1 + prev;
+8        }
+9        if(n>= 10000 && n<= 99999){
+10            prev = (9999-1000) + 1;
+11            comma = (n-10000) +1 + prev;
+12        }
+13        if(n>= 100000 && n<= 999999){
+14            prev = (9999-1000) + (99999-10000) + 2;
+15            comma = (n-100000) +1 + prev;
+16        }
+17        return comma;
+18    }
+19}
