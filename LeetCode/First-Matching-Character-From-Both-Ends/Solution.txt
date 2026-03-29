@@ -1,0 +1,15 @@
+1class Solution {
+2    public int firstMatchingIndex(String s) {
+3        int ind;
+4        int size = s.length();
+5        for(ind = 0 ; ind < size ; ind++)
+6        {
+7            int new_ind = size - ind - 1;
+8            if(s.charAt(ind) == (s.charAt(new_ind)))
+9            {
+10                return ind;
+11            }
+12        }
+13        return -1;
+14    }
+15}
